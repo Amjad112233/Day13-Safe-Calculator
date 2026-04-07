@@ -20,4 +20,4 @@ This Python calculator handles errors using try-except to prevent crashes.
 
 ## Author
 
-### Amjad Iqbal
+#### Amjad Iqbal
