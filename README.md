@@ -1,4 +1,4 @@
-# Safe Calculator 🛡️
+# Safe Calculator 
 
 This Python calculator handles errors using try-except to prevent crashes.
 
@@ -20,4 +20,4 @@ This Python calculator handles errors using try-except to prevent crashes.
 
 ## Author
 
-[Your Name]
+# Amjad Iqbal
